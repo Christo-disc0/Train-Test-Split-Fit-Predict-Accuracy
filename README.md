@@ -1,7 +1,6 @@
 " Now that you have learned about the importance of splitting your data into training and test sets, it's time to practice doing this on the digits dataset! After creating arrays for the features and target variable, you will split them into training and test sets, fit a k-NN classifier to the training data, and then compute its accuracy using the .score() method.
 
-Instructions
-100 XP
+----- Instructions -----
 
 Import KNeighborsClassifier from sklearn.neighbors and train_test_split from sklearn.model_selection.
 
